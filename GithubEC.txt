@@ -1,1 +1,3 @@
-I made a local Github repository and have made the commits to the repository, including this text file!
+I made a local Github repository and have made the commits to the repository including this text file!
+
+This line is a change to the existing file. I am testing fetching the changes to the repository, and making an addition. I am also trying a removal from line one.
